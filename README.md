@@ -4,7 +4,7 @@
 
 ## About Me
 
-I’m an active-duty U.S. Navy Logistics Specialist pursuing a B.S. in Cybersecurity at Purdue Global. I hold the CompTIA Security+ certification and am currently preparing for CompTIA CySA+ as I work toward transitioning into SOC analyst and other blue-team roles.
+I’m an active-duty U.S. Navy Logistics Specialist pursuing a B.S. in Cybersecurity at Purdue University Global. I hold the CompTIA Security+ certification and am currently preparing for CompTIA CySA+ as I work toward transitioning into SOC analyst and other blue-team roles.
 
 Most of my work here focuses on practical learning through security labs, packet and log analysis, threat investigation, and home-lab projects. I use this profile to document not only what I completed, but also how I approached the problem and what I learned along the way.
 
@@ -14,7 +14,7 @@ Most of my work here focuses on practical learning through security labs, packet
 - Completing the TryHackMe SOC Level 1 path
 - Developing packet and log analysis skills
 - Practicing incident investigation and defensive security
-- Strengthening my Linux and Python fundamentals
+- Strengthening my Linux and Python fundamentals with my home lab
 
 ## Featured Project
 
