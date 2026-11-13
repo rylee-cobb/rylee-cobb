@@ -24,7 +24,7 @@ A CyberDefenders packet-analysis lab in which I used Wireshark to investigate a 
 
 ### [T1110-003-Cyberdefenders-Lab](https://github.com/rylee-cobb/T1110-003-Cyberdefenders-Lab)
 
-A walkthrough of a CyberDefenders lab investigating a brute-force password-spraying attack using Splunk queries and log analysis.
+A CyberDefenders lab where I used Splunk to investigate a brute-force password-spraying attack against Windows accounts. The write-up documents my investigation of failed and successful authentication events, identification of the attacker's IP address, correlation of suspicious activity with RDP logs, and reconstruction of the attack timeline.
 
 ## Connect
 
