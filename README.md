@@ -16,11 +16,15 @@ Most of my work here focuses on practical learning through security labs, packet
 - Practicing incident investigation and defensive security
 - Strengthening my Linux and Python fundamentals with my home lab
 
-## Featured Project
+## Featured Projects
 
 ### [JetBrains TeamCity Compromise Investigation](https://github.com/rylee-cobb/JetBrains-Cyberdefenders-Lab)
 
 A CyberDefenders packet-analysis lab in which I used Wireshark to investigate a TeamCity compromise. The write-up documents the attack sequence, including the malicious plugin upload, webshell activity, command execution, credential exposure, and persistence through unauthorized account creation.
+
+### [T1110-003-Cyberdefenders-Lab](https://github.com/rylee-cobb/T1110-003-Cyberdefenders-Lab)
+
+A walkthrough of a CyberDefenders lab investigating a brute-force password-spraying attack using Splunk queries and log analysis.
 
 ## Connect
 
